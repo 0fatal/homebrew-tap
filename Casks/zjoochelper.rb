@@ -7,6 +7,6 @@ cask 'zjoochelper' do
   name 'ZjoocHelper'
   homepage 'https://github.com/ZacharyWin/swift-ZjoocHelper'
 
-  app 'Chuck ZjoocHelper.app'
+  app 'ZjoocHelper.app'
 
 end
