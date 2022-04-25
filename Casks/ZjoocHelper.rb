@@ -1,4 +1,4 @@
-cask 'zjooc-helper' do
+cask 'ZjoocHelper' do
   version 'x.x.x'
   sha256 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
