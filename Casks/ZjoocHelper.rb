@@ -1,4 +1,4 @@
-cask 'ZjoocHelper' do
+cask 'zjoochelper' do
   version '0.0.1'
   sha256 '9edb3cb59e276ec80eba49084e0c08f2f708a5a3c0600aee65e35e0225971491'
 
